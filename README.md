@@ -10,7 +10,7 @@ Release 0.1 - Updated to 8.1.0
 This app will be run from Windows. But you will need your switch cert to know if it is ban or not.
 
 Running latest releases of atmosphere in your switch will automatically create a copy of your prodinfo file which contains inside your switch certificate.
-
+```
 1.- So run atmosphere.
 2.- Power off your switch.
 3.- Extract your microSD from your switch and plugin into your PC.
@@ -22,7 +22,7 @@ Running latest releases of atmosphere in your switch will automatically create a
 9.- Here is an invitation to RetroGamer discord: [https://t.co/WZGZquHe87](https://t.co/WZGZquHe87)
 10.- Go to BaNX folder and run BaNX.
 11.- Press Check button and cross your fingers.
-
+```
 That's all.
 
 ## Credits
