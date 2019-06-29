@@ -37,7 +37,7 @@ Running latest releases of atmosphere in your switch will automatically create a
 
 7.- Copy the prodinfo file stored in your sd:/atmosphere/automatic_backups into the BaNX/ExtractYourCert folder
 
-8.- Go to RetroGamer Discord (see CREDITS), to the channel #switch and get the keys.cfg file.
+8.- Go to RetroGamer Discord (see CREDITS), to the channel #switch-general and get the keys.cfg file.
 
 9.- Copy it into BaNX/ExtractYourCert folder.
 
