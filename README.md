@@ -9,7 +9,7 @@ Release 0.1 - Updated to 8.1.0
 
 If running BaNX you get you're not banned, do not repeat the procedure continuosly or you will be banned. Do it just for once per day if you need it.
 
-Disclaimer: Using your cert out of your switch could become your switch banned. Use at your own risk. I'm not responsible of it.
+Disclaimer: Using your cert out of your switch could become your switch banned. Use at your own risk.
 
 ### Instructions
 
