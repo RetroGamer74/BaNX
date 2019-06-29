@@ -35,6 +35,12 @@ Running latest releases of atmosphere in your switch will automatically create a
 
 9.- Copy it into BaNX/ExtractYourCert folder.
 
+10.- Run RunThis_ExtractYourCert.cmd file.
+
+11.- A new nx_tls_client_cert.pfx file will be created.
+
+12.- Copy nx_tls_client_cert.pfx into BaNX folder.
+
 10.- Go to BaNX folder and run BaNX.
 
 11.- Press Check button and cross your fingers.
