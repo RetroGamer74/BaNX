@@ -5,6 +5,12 @@ Check if your NX Switch is banned or not
 
 Release 0.1 - Updated to 8.1.0
 
+### Warning
+
+If running BaNX you get you're not banned, do not repeat the procedure continuosly or you will be banned. Do it just for once per day if you need it.
+
+Disclaimer: Using your cert out of your switch become your switch banned. Use at your own risk. I'm not responsible of it.
+
 ### Instructions
 
 This app will be run from Windows. But you will need your switch cert to know if it is ban or not.
