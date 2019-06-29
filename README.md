@@ -15,7 +15,7 @@ Running latest releases of atmosphere in your switch will automatically create a
 2.- Power off your switch.
 3.- Extract your microSD from your switch and plugin into your PC.
 4.- Browse to sd:/atmosphere/automatic_backups
-5.- There you will be a file like: YOUR_SWITCH_SERIAL_NUMBER_PRODINFO.bin
+5.- There you will find a file like: YOUR_SWITCH_SERIAL_NUMBER_PRODINFO.bin
 6.- Download the latest release of BaNX from this repository.
 7.- Copy the prodinfo file stored in your sd:/atmosphere/automatic_backups into the BaNX/ExtractYourCert folder
 8.- Go to RetroGamer Discord (see CREDITS), to the channel #switch and get the keys.cfg file.
