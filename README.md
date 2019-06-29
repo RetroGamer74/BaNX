@@ -3,7 +3,7 @@ Check if your NX Switch is banned or not
 
 ## Changelog
 
-0.1 Updated to 8.1.0
+Release 0.1 - Updated to 8.1.0
 
 ### Instructions
 
