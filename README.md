@@ -3,7 +3,7 @@ Check if your NX Switch is banned or not.
 
 # Why to use BaNX?
 
-If you're already banned and you don't know it, you're right that, it would be the same test it directly from your switch going online, or checking it using BaNX.
+If you're already banned and you don't know it, it would be the same testing it, going online using your switch, or checking it using BaNX.
 
 But if you really are not banned, and you want to know it, if you go online with your switch, your device will notify all your device activity log. That could become a ban. If you test it with BaNX, no information will be sent or reported.
 
