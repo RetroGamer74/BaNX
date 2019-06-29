@@ -18,10 +18,11 @@ Running latest releases of atmosphere in your switch will automatically create a
 5.- There you will be a file like: YOUR_SWITCH_SERIAL_NUMBER_PRODINFO.bin
 6.- Download the latest release of BaNX from this repository.
 7.- Copy the prodinfo file stored in your sd:/atmosphere/automatic_backups into the BaNX/ExtractYourCert folder
-8.- Go to RetroGamer Discord, to the channel #switch and get the keys.cfg file you need and copy it into BaNX/ExtractYourCert folder.
-9.- Here is an invitation to RetroGamer discord: [https://t.co/WZGZquHe87](https://t.co/WZGZquHe87)
-10.- Go to BaNX folder and run BaNX.
-11.- Press Check button and cross your fingers.
+8.- Go to RetroGamer Discord, to the channel #switch and get the keys.cfg file.
+9.- Copy it into BaNX/ExtractYourCert folder.
+10.- Here is an invitation to RetroGamer discord: [https://t.co/WZGZquHe87](https://t.co/WZGZquHe87)
+11.- Go to BaNX folder and run BaNX.
+12.- Press Check button and cross your fingers.
 ```
 That's all.
 
