@@ -9,7 +9,8 @@ But if you really are not banned, and you want to know it, if you go online with
 
 ## Changelog
 
-Release 0.1 - Updated to 9.0.0
+Release 1.3.150 - Updated to 9.1.0
+Release 1.2.150 - Updated to 9.0.0
 Release 0.1 - Updated to 8.1.0
 
 ### Warning
