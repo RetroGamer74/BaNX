@@ -10,7 +10,9 @@ But if you really are not banned, and you want to know it, if you go online with
 ## Changelog
 
 Release 1.3.150 - Updated to 9.1.0
+
 Release 1.2.150 - Updated to 9.0.0
+
 Release 0.1 - Updated to 8.1.0
 
 ### Warning
@@ -59,7 +61,7 @@ Running latest releases of atmosphere in your switch will automatically create a
 That's all.
 
 ## Credits
-Here is an invitation to RetroGamer discord: [https://t.co/WZGZquHe87](https://t.co/WZGZquHe87)
+Here is an invitation to RetroGamer discord: [Retrogamer_74 Discord](https://discord.io/retrogamer_74)
 
 Certificate Extractor is an EXE conversion from python files from other projects like CertNXExtractionPack
 
